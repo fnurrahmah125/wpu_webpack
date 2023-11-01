@@ -91,3 +91,10 @@ Melakukan bundle pada sumber daya statis selain javascript.
 Sebuah teknik untuk menyimpan data di dalam komponen hardware atau software, dilakukan agar request (berikutnya) untuk data tersebut terjadi dengan lebih cepat.
 
 > hard refresh - Ctrl + Shift + R
+
+📌 Useful Commits
+
+- [Javascript Module System](https://github.com/fnurrahmah125/wpu_webpack/commit/4399abc63dfa73331aa423a7f96113e814d7237b)
+- [Start using webpack](https://github.com/fnurrahmah125/wpu_webpack/commit/3f0a53ecdac822b1a2ca5d478d405eb9dd1e1798)
+- [Webpack Custom Configuration](https://github.com/fnurrahmah125/wpu_webpack/commit/7019ee3bda61cabf014a3fefecca33f5d8345d72)
+- []()
