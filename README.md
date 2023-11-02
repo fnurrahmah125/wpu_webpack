@@ -91,3 +91,15 @@ Melakukan bundle pada sumber daya statis selain javascript.
 Sebuah teknik untuk menyimpan data di dalam komponen hardware atau software, dilakukan agar request (berikutnya) untuk data tersebut terjadi dengan lebih cepat.
 
 > hard refresh - Ctrl + Shift + R
+
+📌 Useful Commits
+
+- [Javascript Module System](https://github.com/fnurrahmah125/wpu_webpack/commit/4399abc63dfa73331aa423a7f96113e814d7237b)
+- [Start using webpack](https://github.com/fnurrahmah125/wpu_webpack/commit/3f0a53ecdac822b1a2ca5d478d405eb9dd1e1798)
+- [Webpack Custom Configuration](https://github.com/fnurrahmah125/wpu_webpack/commit/7019ee3bda61cabf014a3fefecca33f5d8345d72)
+- [Loaders](https://github.com/fnurrahmah125/wpu_webpack/commit/a2cf73d917dba93e96242553d8ce14abba3ece45)
+- [Plugin](https://github.com/fnurrahmah125/wpu_webpack/commit/d01503be4ce29bf00ea62f621a47d0e4f0f69b3e)
+- [Assets Management](https://github.com/fnurrahmah125/wpu_webpack/commit/4eb1528d935594cd23bc9dbb7177e66b0e0210d4)
+- [Code Splitting with Multiple Entry](https://github.com/fnurrahmah125/wpu_webpack/commit/04bc74d2ec4233b0532c940e4d62b02431ddd1b8)
+- [Code Splitting with Prevent Duplication](https://github.com/fnurrahmah125/wpu_webpack/commit/b8ebdfb21e7da3552aee38f54aaa8f1f7f63f37b)\
+- [CSS and Image Minimizer](https://github.com/fnurrahmah125/wpu_webpack/commit/1f0e7f64b1dddd28d869f6a5472eb032145659e9)
