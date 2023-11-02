@@ -92,7 +92,7 @@ Sebuah teknik untuk menyimpan data di dalam komponen hardware atau software, dil
 
 > hard refresh - Ctrl + Shift + R
 
-📌 Useful Commits
+### 📌 Useful Commits
 
 - [Javascript Module System](https://github.com/fnurrahmah125/wpu_webpack/commit/4399abc63dfa73331aa423a7f96113e814d7237b)
 - [Start using webpack](https://github.com/fnurrahmah125/wpu_webpack/commit/3f0a53ecdac822b1a2ca5d478d405eb9dd1e1798)
