@@ -101,5 +101,5 @@ Sebuah teknik untuk menyimpan data di dalam komponen hardware atau software, dil
 - [Plugin](https://github.com/fnurrahmah125/wpu_webpack/commit/d01503be4ce29bf00ea62f621a47d0e4f0f69b3e)
 - [Assets Management](https://github.com/fnurrahmah125/wpu_webpack/commit/4eb1528d935594cd23bc9dbb7177e66b0e0210d4)
 - [Code Splitting with Multiple Entry](https://github.com/fnurrahmah125/wpu_webpack/commit/04bc74d2ec4233b0532c940e4d62b02431ddd1b8)
-- [Code Splitting with Prevent Duplication](https://github.com/fnurrahmah125/wpu_webpack/commit/b8ebdfb21e7da3552aee38f54aaa8f1f7f63f37b)\
+- [Code Splitting with Prevent Duplication](https://github.com/fnurrahmah125/wpu_webpack/commit/b8ebdfb21e7da3552aee38f54aaa8f1f7f63f37b)
 - [CSS and Image Minimizer](https://github.com/fnurrahmah125/wpu_webpack/commit/1f0e7f64b1dddd28d869f6a5472eb032145659e9)
